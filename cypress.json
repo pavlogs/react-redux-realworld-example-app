@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:4100/",
+  "chromeWebSecurity": false,
+  "viewportHeight": 768,
+  "viewportWidth": 1024,
+  "video": false,
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "test-results/test-output-[hash].xml"
+  }
+}

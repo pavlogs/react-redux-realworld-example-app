@@ -1,0 +1,10 @@
+This is a small test that is all about your work style. Please come prepared to explain why you did it the way you did
+
+Estimated time for the task: 4-6 hours
+
+Git repo: https://github.com/gothinkster/react-redux-realworld-example-app
+Test Steps:
++ Create an account using the [Sign Up] link (manually) and assert that the sign in is working as expected (using the credentials you created)
++ Assert that there are [10] articles per page and [50] pages in total
++ Assert that [test] tag exists and click it
++ Mock the Articles.get to return only 12 articles (in total) and assert that only [12] are returned with [2] page in total
